@@ -7,14 +7,14 @@
 
 #### 软件架构
 软件架构说明
-windows/linux
-NETTY
-ACTIVEMQ
-MQTT
-TCP协议
-XOR-BASE64加密解密
-多线程-线程池管理
-paho-MQTT连接
+windows/linux；
+NETTY；
+ACTIVEMQ；
+MQTT；
+TCP协议；
+XOR-BASE64加密解密；
+多线程-线程池管理；
+paho-MQTT连接。
 
 
 #### 安装教程
